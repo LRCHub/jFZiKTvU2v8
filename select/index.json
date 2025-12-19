@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "守ってあげたい",
+  "base_artist": "Yumi Matsutoya",
+  "createdAt": "2025-12-19T13:08:11.661928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "守ってあげたい",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/01_守ってあげたい_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "守ってあげたい",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/02_守ってあげたい_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "守ってあげたい",
+      "artist": "Yuna Ito",
+      "has_synced": true,
+      "path": "select/03_守ってあげたい_Yuna_Ito.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "守ってあげたい",
+      "artist": "伊藤由奈",
+      "has_synced": false,
+      "path": "select/04_守ってあげたい_伊藤由奈.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "守ってあげたい",
+      "artist": "鬼束ちひろ",
+      "has_synced": false,
+      "path": "select/05_守ってあげたい_鬼束ちひろ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "守ってあげたい",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/06_守ってあげたい_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "守ってあげたい",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/07_守ってあげたい_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "守ってあげたい",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/08_守ってあげたい_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "守ってあげたい",
+      "artist": "Chihiro Onitsuka",
+      "has_synced": false,
+      "path": "select/09_守ってあげたい_Chihiro_Onitsuka.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "守ってあげたい - 2022 mix",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/10_守ってあげたい_-_2022_mix_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mamotte Agetai (守ってあげたい)",
+      "artist": "Chihiro Onitsuka (鬼束ちひろ)",
+      "has_synced": false,
+      "path": "select/11_Mamotte_Agetai_(守ってあげたい)_Chihiro_Onitsuka_(鬼束ちひろ).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "守ってあげたい [2022 Mix]",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/12_守ってあげたい_[2022_Mix]_松任谷由実.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "守ってあげたい",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_01_守ってあげたい_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "守ってあげたい",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_02_守ってあげたい_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "守ってあげたい",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_03_守ってあげたい_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "守ってあげたい",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_04_守ってあげたい_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "守ってあげたい",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_05_守ってあげたい_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "守ってあげたい",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_06_守ってあげたい_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "守ってあげたい",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_07_守ってあげたい_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "守ってあげたい",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_08_守ってあげたい_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "守ってあげたい",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_09_守ってあげたい_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "守ってあげたい",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_10_守ってあげたい_松任谷_由実.txt"
+    }
+  ]
+}
